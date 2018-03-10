@@ -6,11 +6,6 @@
 | [Data](#data) |
 | [Key Insights](#key-insights) |
 
-| Table of Contents |
-|---|
-| [Overview](#overview#) |
-| [Data](#data) |
-| [Key Insights](#key-insights) |
 
 
 ## Overview
