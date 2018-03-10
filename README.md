@@ -28,10 +28,10 @@ Sales data is very informative of and highly correlated to total sales volume, p
 
 
 ## Concepts and Skills used
-Python
-Pandas
-SKLearn
-Statsmodels
-Matploblib
-Multiple Linear Regression
-Model cross-validation
+Python <br>
+Pandas <br>
+SKLearn <br>
+Statsmodels <br>
+Matploblib <br>
+Multiple Linear Regression <br>
+Model cross-validation <br>
