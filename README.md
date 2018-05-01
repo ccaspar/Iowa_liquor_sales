@@ -1,4 +1,4 @@
-# Iowa_liquor_sales
+# Iowa Liquor Sales Analysis
 
 |Table of Contents |
 |---|
